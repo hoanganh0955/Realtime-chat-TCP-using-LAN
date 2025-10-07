@@ -39,13 +39,13 @@ namespace RealtimeChatApp
 
             InitializeComponents();
 
-            // Khởi tạo CLI chỉ khi là server
+           
             try
             {
                 Console.Title = "Chat Server Log";
                 Console.WriteLine("[CLI] Console initialized.");
             }
-            catch { } // nếu là WinExe sẽ không có console
+            catch { }
         }
 
         void InitializeComponents()
@@ -240,7 +240,6 @@ namespace RealtimeChatApp
                 if (clientStream == null) return;
                 var data = Encoding.UTF8.GetBytes(msg + "\n");
                 clientStream.Write(data, 0, data.Length);
-                // Không in ra console nếu là client
             }
             catch (Exception ex)
             {
