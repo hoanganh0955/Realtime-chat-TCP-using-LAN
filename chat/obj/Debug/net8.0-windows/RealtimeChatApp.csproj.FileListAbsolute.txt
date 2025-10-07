@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\chat\bin\Debug\net8.0-windows\RealtimeChatApp.exe
+C:\Users\Administrator\Desktop\chat\bin\Debug\net8.0-windows\RealtimeChatApp.deps.json
+C:\Users\Administrator\Desktop\chat\bin\Debug\net8.0-windows\RealtimeChatApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\chat\bin\Debug\net8.0-windows\RealtimeChatApp.dll
+C:\Users\Administrator\Desktop\chat\bin\Debug\net8.0-windows\RealtimeChatApp.pdb
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\RealtimeChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\RealtimeChatApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\RealtimeChatApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\RealtimeChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\RealtimeChatApp.dll
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\refint\RealtimeChatApp.dll
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\RealtimeChatApp.pdb
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\RealtimeChatApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\chat\obj\Debug\net8.0-windows\ref\RealtimeChatApp.dll
