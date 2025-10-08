@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\chat\ClientApp\bin\Debug\net8.0-windows\ClientApp.exe
+C:\Users\Administrator\Desktop\chat\ClientApp\bin\Debug\net8.0-windows\ClientApp.deps.json
+C:\Users\Administrator\Desktop\chat\ClientApp\bin\Debug\net8.0-windows\ClientApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\chat\ClientApp\bin\Debug\net8.0-windows\ClientApp.dll
+C:\Users\Administrator\Desktop\chat\ClientApp\bin\Debug\net8.0-windows\ClientApp.pdb
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\ClientApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\ClientApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\ClientApp.dll
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\refint\ClientApp.dll
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\ClientApp.pdb
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\ClientApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\chat\ClientApp\obj\Debug\net8.0-windows\ref\ClientApp.dll

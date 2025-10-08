@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\ServerApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\ServerApp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\chat\ServerApp\bin\Debug\net8.0-windows\ServerApp.exe
+C:\Users\Administrator\Desktop\chat\ServerApp\bin\Debug\net8.0-windows\ServerApp.deps.json
+C:\Users\Administrator\Desktop\chat\ServerApp\bin\Debug\net8.0-windows\ServerApp.runtimeconfig.json
+C:\Users\Administrator\Desktop\chat\ServerApp\bin\Debug\net8.0-windows\ServerApp.dll
+C:\Users\Administrator\Desktop\chat\ServerApp\bin\Debug\net8.0-windows\ServerApp.pdb
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\ServerApp.dll
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\refint\ServerApp.dll
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\ServerApp.pdb
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\ServerApp.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\chat\ServerApp\obj\Debug\net8.0-windows\ref\ServerApp.dll
